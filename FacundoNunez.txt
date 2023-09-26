@@ -1,0 +1,1 @@
+creamos un repositorio, luego copiamos URL y clonamos en en nuestra aplicacion de escritorio mediante el URL.
